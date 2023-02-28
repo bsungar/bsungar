@@ -2,6 +2,14 @@
 I am Beyza Sungar. I am studying at Manisa Celal Bayar University in Computer Engineering department. I am currently researching software areas that interest me, and I am 
 trying to learn programming languages for these software areas. I'm happy whenever I see my progress in learning programming languages, and I also enjoy what I'm doing when my code is running. I love studying for coding. :sparkling_heart:
 
+## My Status :dizzy:	
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bsungar&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsungar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <div id="header" align="center">
