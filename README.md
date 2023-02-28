@@ -5,7 +5,7 @@ trying to learn programming languages for these software areas. I'm happy whenev
 
 
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fquery%3Fq%3Dcartoon%2Bcat%2Bbackground%2Bfor%2Bcomputer&psig=AOvVaw3WD0-DogByGH2m3hGxDJdd&ust=1677639109322000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiVpeuat_0CFQAAAAAdAAAAABAE" width="100"/>
+  <img src="https://e1.pxfuel.com/desktop-wallpaper/977/271/desktop-wallpaper-best-3-cartoon-cat-backgrounds-for-computer-on-hip-animated-cat.jpg" width="100"/>
 </div>
 
 
