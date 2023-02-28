@@ -8,6 +8,6 @@ trying to learn programming languages for these software areas. I'm happy whenev
   </a> 
   
  <a href="https://www.instagram.com/sungarbeyza/">
-    <img src="https://img.shields.io/badge/Instagram-darkpink?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-fusia?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 
