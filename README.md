@@ -21,7 +21,7 @@ trying to learn programming languages for these software areas. I'm happy whenev
 
 
 
-<div id="header" align="center">
+<div id="footer" align="center">
   <img src="https://e1.pxfuel.com/desktop-wallpaper/977/271/desktop-wallpaper-best-3-cartoon-cat-backgrounds-for-computer-on-hip-animated-cat.jpg" width="200"/>
 </div>
 
