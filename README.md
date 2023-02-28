@@ -6,8 +6,17 @@ trying to learn programming languages for these software areas. I'm happy whenev
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bsungar&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bsungar&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsungar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
 
 
 
