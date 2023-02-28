@@ -5,12 +5,12 @@ trying to learn programming languages for these software areas. I'm happy whenev
 
 
 <div id="header" align="center">
-  <img src="https://e1.pxfuel.com/desktop-wallpaper/977/271/desktop-wallpaper-best-3-cartoon-cat-backgrounds-for-computer-on-hip-animated-cat.jpg" width="100"/>
+  <img src="https://e1.pxfuel.com/desktop-wallpaper/977/271/desktop-wallpaper-best-3-cartoon-cat-backgrounds-for-computer-on-hip-animated-cat.jpg" width="200"/>
 </div>
 
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/beyza-sungar-101853249/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
