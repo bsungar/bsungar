@@ -5,7 +5,7 @@ trying to learn programming languages for these software areas. I'm happy whenev
 
 
 <div id="header" align="center">
-  <img src="https://gifdb.com/gif/cute-white-cartoon-cat-jhuqk0ets8r0ttfq.html" width="100"/>
+  <gif src="https://gifdb.com/gif/cute-white-cartoon-cat-jhuqk0ets8r0ttfq.html" width="100"/>
 </div>
 
 
