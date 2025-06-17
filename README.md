@@ -13,7 +13,7 @@
 - 📌 I'm especially interested in:
   - Mobile Development (Flutter)
   - Web Development (Angular, Spring Boot)
-  - AI & Machine Learning (beginner level)
+  - AI & Machine Learning
 
 
 ## 🛠️ Tech Stack
