@@ -3,10 +3,8 @@
 <p align="center">
 🎓 Computer Engineering Student at <strong>Manisa Celal Bayar University</strong><br>
 💻 Passionate about software development and programming<br>
-✨ Always learning, always improving
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -17,7 +15,6 @@
   - Web Development (Angular, Spring Boot)
   - AI & Machine Learning (beginner level)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -30,10 +27,10 @@
 **Tools & Platforms**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,firebase" />
-   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+ 
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -45,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsungar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
+
 
 ## 📫 Let's Connect!
 
