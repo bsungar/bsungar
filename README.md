@@ -24,12 +24,13 @@
 **Languages & Frameworks**
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,html,css" />
-  <img src="https://skillicons.dev/icons?i=flutter,angular,spring,react" />
+  <img src="https://skillicons.dev/icons?i=flutter,angular,spring" />
 </p>
 
 **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,firebase" />
+   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </p>
 
 ---
@@ -60,8 +61,7 @@
 
 ---
 
-## 🐾 Just for Fun
-
 <div align="center">
   <img src="https://e1.pxfuel.com/desktop-wallpaper/977/271/desktop-wallpaper-best-3-cartoon-cat-backgrounds-for-computer-on-hip-animated-cat.jpg" width="200" />
+  <p><em>✨ Always learning, always growing.</em></p>
 </div>
